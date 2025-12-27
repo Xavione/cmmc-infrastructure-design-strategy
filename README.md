@@ -2,7 +2,8 @@
 
 This repository contains infrastructure design and compliance planning artifacts created to support CMMC Level 2 / NIST 800-171 readiness for an enterprise IT environment. These documents were built to translate federal cybersecurity requirements into practical and sustainable infrastructure guidance.
 
-Included Artifacts
+##Included Artifacts
+
 🧭 CMMC Infrastructure Roadmap (2025–2030)
 
 A multi-year lifecycle plan outlining hardware procurement, operating system and database support timelines, patching cadence, vulnerability scanning schedules, audit preparation cycles, and compliance readiness checkpoints.
